@@ -11,6 +11,6 @@
   <a href="https://vk.com/dydyshkinL">
     <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK Badge"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Sept52&style=flat-square&color=blue" alt=""/>
 </div>
+ <img src="https://komarev.com/ghpvc/?username=Sept52&style=flat-square&color=blue" alt=""/>
 
