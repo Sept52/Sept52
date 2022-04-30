@@ -22,9 +22,7 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>  
-
-###
+  ###
 :woman_technologist: About Me :
 I am a Junior Front-end Developer from Belarus.
 
@@ -35,4 +33,7 @@ I am a Junior Front-end Developer from Belarus.
 - :zap: 
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/%D0%B4%D0%B0%D0%BD%D0%B8%D0%B8%D0%BB-%D0%BB%D0%B0%D0%B2%D1%80%D0%B5%D0%BD%D0%BE%D0%B2-57ba43176/) 
+</div>  
+
+
 
