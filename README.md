@@ -29,7 +29,7 @@
 
 <div> 
 :woman_technologist: About Me :
-I am a Junior Front-end Developer from Belarus.
+I am a Front-end Developer from Belarus.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danila-lavrenov-57ba43176/) 
 </div> 
