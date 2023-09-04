@@ -7,8 +7,8 @@
     <a href="https://www.instagram.com/dydyshkin/">
       <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
-    <a href="https://vk.com/dydyshkinL">
-      <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK Badge"/>
+    <a href="https://t.me/dydyshkin">
+      <img src="https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black" alt="Telegram Badge"/>
     </a>
   </div>
   <div align="center">
