@@ -7,11 +7,12 @@
     <a href="https://www.instagram.com/dydyshkin/">
       <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
+  </div>
+  
+  <div align="center">
     <a href="https://t.me/dydyshkin">
       <img src="https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black" alt="Telegram Badge"/>
     </a>
-  </div>
-  <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Sept52&style=flat-square&color=blue" alt="">
   </div>
   <h1>
