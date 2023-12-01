@@ -4,12 +4,12 @@
     <a href="https://www.linkedin.com/in/danila-lavrenov-57ba43176/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-  </div>
-  
-  <div align="center">
     <a href="https://t.me/dydyshkin">
       <img src="https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black" alt="Telegram Badge"/>
     </a>
+  </div>
+  
+  <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Sept52&style=flat-square&color=blue" alt="">
   </div>
   <h1>
