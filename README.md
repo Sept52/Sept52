@@ -4,9 +4,6 @@
     <a href="https://www.linkedin.com/in/danila-lavrenov-57ba43176/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://www.instagram.com/dydyshkin/">
-      <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
-    </a>
   </div>
   
   <div align="center">
@@ -26,8 +23,6 @@
 <div> 
 :woman_technologist: About Me :
 I am a Frontend Developer from Belarus.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danila-lavrenov-57ba43176/) 
 </div> 
 
 ---
